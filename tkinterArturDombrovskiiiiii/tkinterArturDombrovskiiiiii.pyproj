@@ -24,6 +24,7 @@
     <Compile Include="tkinterArturDombrovskiiiiii.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bolt.ico" />
     <Content Include="eye.png" />
     <Content Include="icon3.ico" />
   </ItemGroup>
